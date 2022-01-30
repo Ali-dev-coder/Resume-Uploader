@@ -12,3 +12,5 @@ templates files,
 pip install django_unused_media
 
 Resume Uploader Simple Projects. Only add forms data and show at frontend
+![](1.png)
+![](2.png)
